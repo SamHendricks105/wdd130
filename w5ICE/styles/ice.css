@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+
+#main{
+    min-width: 100%;
+}
+
+.three{
+    width: 33%;
+}
+body{
+    margin:auto 0 
+}
+
+body{
+    padding: auto 0;
+    width: fit-content;
+}
